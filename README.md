@@ -246,7 +246,7 @@
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
-            Ec-Council Certified Ethical Hacker</li>
+            EC-Council Certified Ethical Hacker</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             IBM Cyber Security Intro</li>
