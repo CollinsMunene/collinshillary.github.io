@@ -21,7 +21,7 @@
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       <span class="d-block d-lg-none">Collins Hillary</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/myprofile" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -67,7 +67,7 @@
           <a href="https://www.linkedin.com/in/collins-hillary-munene/">
             <i class="fab fa-linkedin-in"></i>
           </a>
-          <a href="">
+          <a href=https://github.com/CollinsMunene"">
             <i class="fab fa-github"></i>
           </a>
           <a href="https://twitter.com/Hillary73776897?s=08">
