@@ -67,7 +67,7 @@
           <a href="https://www.linkedin.com/in/collins-hillary-munene/">
             <i class="fab fa-linkedin-in"></i>
           </a>
-          <a href=https://github.com/CollinsMunene"">
+          <a href="https://github.com/CollinsMunene">
             <i class="fab fa-github"></i>
           </a>
           <a href="https://twitter.com/Hillary73776897?s=08">
