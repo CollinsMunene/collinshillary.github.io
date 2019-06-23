@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
 
   <meta charset="utf-8">
@@ -69,14 +67,11 @@
           <a href="https://www.linkedin.com/in/collins-hillary-munene/">
             <i class="fab fa-linkedin-in"></i>
           </a>
-          <a href="#">
+          <a href="">
             <i class="fab fa-github"></i>
           </a>
-          <a href="#">
+          <a href="https://twitter.com/Hillary73776897?s=08">
             <i class="fab fa-twitter"></i>
-          </a>
-          <a href="#">
-            <i class="fab fa-facebook-f"></i>
           </a>
         </div>
       </div>
@@ -124,7 +119,7 @@
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div class="resume-content">
             <h3 class="mb-0">QA(Quality Assurance) Engineer</h3>
-            <div class="subheading mb-3">Yelbriges projects</div>
+            <div class="subheading mb-3">Yelbridges projects</div>
             <!-- <p></p> -->
           </div>
           <!-- <div class="resume-date text-md-right">
@@ -192,13 +187,13 @@
             <i class="fab fa-python"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-bigdata"></i>
+            <i class="fas fa-database"></i>
           </li>
           <li class="list-inline-item">
             <i class="fab fa-sass"></i>
           </li>
           <li class="list-inline-item">
-            <i class="fab fa-cybersecurity"></i>
+            <i class="fas fa-shield-alt"></i>
           </li>
           <li class="list-inline-item">
             <i class="fab fa-wordpress"></i>
