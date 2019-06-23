@@ -58,7 +58,7 @@
         <h1 class="mb-0">Collins
           <span class="text-primary">Hillary</span>
         </h1>
-        <div class="subheading mb-5">Nairobi · Kenya · (+254) 0715804742
+        <div class="subheading mb-5">Nairobi · Kenya · (+254) 0715804742 ·
           <a href="mailto:hillarycollins@protonmail.com">hillarycollins@protonmail.com</a>
         </div>
         <p class="lead mb-5">Hello there, I am Collins Hillary and i am a Web Developer, a Cyber Security Practiotioner and a Big Data enthusiast<br>I am experienced in developing personalized solutions for organizations and individuals that are aimed at what the clients is striving to achieve, using latest, relevant and scalable technologies. Together with testing and ensuring the environmnet in which the client is working on is 
