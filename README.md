@@ -198,15 +198,15 @@
           <li class="list-inline-item">
             <i class="fab fa-wordpress"></i>
           </li>
+          <li class="list-inline-item">
+            <i class="fab fa-linux"></i>
+          </li>
           <!-- <li class="list-inline-item">
             <i class="fab fa-gulp"></i>
           </li> -->
           <!-- <li class="list-inline-item">
             <i class="fab fa-grunt"></i>
           </li> -->
-          <li class="list-inline-item">
-            <i class="fab fa-linux"></i>
-          </li>
         </ul>
  
         <div class="subheading mb-3">Tools I mostly use</div>
