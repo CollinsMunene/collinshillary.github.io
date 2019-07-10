@@ -248,6 +248,10 @@
             <i class="fa-li fa fa-trophy text-warning"></i>
             EC-Council Certified Ethical Hacker</li>
           <li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            Certificate of Complete Ethical Hacking,Advanced</li>
+          <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             IBM Cyber Security Intro</li>
           <li>
