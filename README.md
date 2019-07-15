@@ -266,11 +266,8 @@
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             Self-Taught Web Development</li>
-        </ul>
-      </div>
-    </section>
 
-  </div>
+  
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
