@@ -279,4 +279,3 @@
   <!-- Custom scripts for this template -->
   <script src="js/resume.min.js"></script>
 
-</body>
