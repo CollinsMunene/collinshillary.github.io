@@ -142,7 +142,7 @@
             <h3 class="mb-0">United States International University - Africa</h3>
             <div class="subheading mb-3">Bachelor of Information Systems and Technology</div>
             <div>Concentrations</div>
-            <p>Computer Forensics</p>
+            <p>Computer Forensics and Cybercrime</p>
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">May 2016 - December 2019</span>
