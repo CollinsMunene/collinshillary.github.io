@@ -248,6 +248,8 @@
             <i class="fa-li fa fa-trophy text-warning"></i>
             EC-Council Certified Ethical Hacker</li>
           <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            IBM Big Data v2 Mastery Award</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             Certificate of Complete Ethical Hacking,Advanced</li>
