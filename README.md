@@ -84,11 +84,11 @@
         <h2 class="mb-5">Experience</h2>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
+          <!--<div class="resume-content">
             <h3 class="mb-0">Team leader</h3>
             <div class="subheading mb-3">Outlook Ltd Online Store Project</div>
-            <!-- <p></p> -->
-          </div>
+           
+          </div> -->
           <!-- <div class="resume-date text-md-right">
             <span class="text-primary">March 2013 - Present</span>
           </div> -->
@@ -117,11 +117,11 @@
         </div>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
-          <div class="resume-content">
+          <!--<div class="resume-content">
             <h3 class="mb-0">QA(Quality Assurance) Engineer</h3>
             <div class="subheading mb-3">Yelbridges projects</div>
-            <!-- <p></p> -->
-          </div>
+            
+          </div>-->
           <!-- <div class="resume-date text-md-right">
             <span class="text-primary">September 2008 - June 2010</span>
           </div> -->
