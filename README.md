@@ -45,6 +45,9 @@
           <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#publications">Plublications</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
         </li>
       </ul>
@@ -235,6 +238,20 @@
         <p>Apart from being a web developer and a Cyber Security Practitioner, I enjoy interacting with others in social gatherings, also getting info and participating in various functions. Working with data of different kinds is also a part i like to partake in, knowing how to deal
             with all this data flowing in from around and creating solutions from them. </p>
         <p class="mb-0"></p>
+      </div>
+    </section>
+
+    <hr class="m-0">
+    
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="publications">
+      <div class="w-100">
+        <div class="subheading mb-3">Publications</div>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            <a href="https://medium.com/@issack286/gophish-mailhog-29c1e87f4ed6">Detailed usage of GOPHISH & MAILHOG for  mail phishing</a>
+          </li>
+        </ul>
       </div>
     </section>
 
