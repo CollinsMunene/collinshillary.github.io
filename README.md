@@ -251,6 +251,10 @@
             <i class="fa-li fa fa-check"></i>
             <a href="https://medium.com/@issack286/gophish-mailhog-29c1e87f4ed6">Detailed usage of GOPHISH & MAILHOG for  mail phishing</a>
           </li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            <a href="https://medium.com/@collinshillary1/django-email-testing-with-mailhog-as-an-smtp-server-8ca1ff3486f4">Detailed usage of Django Email system and MailHog SMTP server for email testing</a>
+          </li>
         </ul>
       </div>
     </section>
