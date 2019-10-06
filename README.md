@@ -120,11 +120,11 @@
         </div>
 
         <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
-          <!--<div class="resume-content">
-            <h3 class="mb-0">QA(Quality Assurance) Engineer</h3>
-            <div class="subheading mb-3">Yelbridges projects</div>
+          <div class="resume-content">
+            <h3 class="mb-0">IT Support Technician</h3>
+            <div class="subheading mb-3">Kenya Literature Bureau</div>
             
-          </div>-->
+          </div>
           <!-- <div class="resume-date text-md-right">
             <span class="text-primary">September 2008 - June 2010</span>
           </div> -->
