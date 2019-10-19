@@ -207,9 +207,9 @@
           <!-- <li class="list-inline-item">
             <i class="fab fa-gulp"></i>
           </li> -->
-          <!-- <li class="list-inline-item">
-            <i class="fab fa-grunt"></i>
-          </li> -->
+          <li class="list-inline-item">
+            <i class="fab fa-node"></i>
+          </li>
         </ul>
  
         <div class="subheading mb-3">Tools I mostly use</div>
@@ -223,6 +223,10 @@
           <li>
             <i class="fa-li fa fa-check"></i>
             IBM Bigdata related tools <br> For all big data related works, which include use of Hadoop and HDFS infrastructure</li>
+            <li>
+            <i class="fa-li fa fa-check"></i>
+            Express Framework, Node js<br> For development that requires asynchronous communications</li>
+          <li>
           <!-- <li>
             <i class="fa-li fa fa-check"></i>
             Agile Development &amp; Scrum</li> -->
