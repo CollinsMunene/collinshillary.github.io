@@ -223,10 +223,10 @@
           <li>
             <i class="fa-li fa fa-check"></i>
             IBM Bigdata related tools <br> For all big data related works, which include use of Hadoop and HDFS infrastructure</li>
-            <li>
+           <li>
             <i class="fa-li fa fa-check"></i>
             Express Framework, Node js<br> For development that requires asynchronous communications</li>
-          <li>
+          </li>
           <!-- <li>
             <i class="fa-li fa fa-check"></i>
             Agile Development &amp; Scrum</li> -->
