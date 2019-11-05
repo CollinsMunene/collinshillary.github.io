@@ -216,13 +216,14 @@
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-check"></i>
-            Django Framework, HTML5, CSS, SCSS, JS<br> For web development that fits in Web and Mobile applications development</li>
+            Django Framework, HTML5, CSS, SCSS, JS and PHP<br> For web development that fits in Web and Mobile applications development</li>
           <li>
             <i class="fa-li fa fa-check"></i>
             Kali linux <br> For Penetration Testing and Security analysis together with other tools necessary for the job</li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            IBM Bigdata related tools <br> For all big data related works, which include use of Hadoop and HDFS infrastructure</li>
+            IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,
+<br>AI tools such as Watsom studio</li>
            <li>
             <i class="fa-li fa fa-check"></i>
             Express Framework, Node js<br> For development that requires asynchronous communications
