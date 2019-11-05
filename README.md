@@ -223,7 +223,7 @@
           <li>
             <i class="fa-li fa fa-check"></i>
             IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,
-<br>AI tools such as Watsom studio</li>
+<br>AI tools such as Watson studio</li>
            <li>
             <i class="fa-li fa fa-check"></i>
             Express Framework, Node js<br> For development that requires asynchronous communications
