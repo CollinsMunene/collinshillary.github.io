@@ -224,11 +224,11 @@
             </li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,<br>AI tools such as Watson studio</IBM>
+            IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,<br>AI tools such as Watson studio
             </li>
            <li>
            <i class="fa-li fa fa-check"></i>
-           Artificial Intelligence tools<br> For creating AI and ML projects, I can use ,IBM AI components and openCV <br>still experimenting on Darknet and pixlab tools</Artificial>
+           Artificial Intelligence tools<br> For creating AI and ML projects, I can use ,IBM AI components and openCV <br>still experimenting on Darknet and pixlab tools
             </li>
            <li>
             <i class="fa-li fa fa-check"></i>
