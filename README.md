@@ -42,7 +42,7 @@
           <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+          <a class="nav-link js-scroll-trigger" href="#personal">Personal projects</a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#publications">Plublications</a>
@@ -222,8 +222,10 @@
             Kali linux <br> For Penetration Testing and Security analysis together with other tools necessary for the job</li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,
-<br>AI tools such as Watson studio</li>
+            <li>IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,<br>AI tools such as Watson studio</li>
+           <li>
+           <i class="fa-li fa fa-check"></i>
+            <liArtificial Intelligence tools<br> For creating AI and ML projects, I can use ,IBM AI components and openCV <br>still experimenting on Darknet and pixlab tools</li>
            <li>
             <i class="fa-li fa fa-check"></i>
             Express Framework, Node js<br> For development that requires asynchronous communications
@@ -237,11 +239,10 @@
 
     <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="personal">
       <div class="w-100">
-        <h2 class="mb-5">Interests</h2>
-        <p>Apart from being a web developer and a Cyber Security Practitioner, I enjoy interacting with others in social gatherings, also getting info and participating in various functions. Working with data of different kinds is also a part i like to partake in, knowing how to deal
-            with all this data flowing in from around and creating solutions from them. </p>
+        <h2 class="mb-5">Personal Projects</h2>
+        <p>Will update all projects soon. </p>
         <p class="mb-0"></p>
       </div>
     </section>
@@ -252,6 +253,10 @@
       <div class="w-100">
         <div class="subheading mb-3">Publications</div>
         <ul class="fa-ul mb-0">
+         <li>
+            <i class="fa-li fa fa-check"></i>
+            <a href="https://medium.com/@collinshillary1/getting-started-on-object-detection-with-opencv-5962a75876a6">Detailed usage of openCV with video streaming to detect objects specifically the face</a>
+          </li>
           <li>
             <i class="fa-li fa fa-check"></i>
             <a href="https://medium.com/@issack286/gophish-mailhog-29c1e87f4ed6">Detailed usage of GOPHISH & MAILHOG for  mail phishing</a>
@@ -274,7 +279,10 @@
             <i class="fa-li fa fa-trophy text-warning"></i>
             EC-Council Certified Ethical Hacker</li>
           <li>
-            <i class="fa-li fa fa-trophy text-warning"></i>
+          <li>
+          <i class="fa-li fa fa-trophy text-warning"></i>
+            IBM Artificial Intelligence Mastery Award</li>
+           <i class="fa-li fa fa-trophy text-warning"></i>
             IBM Big Data v2 Mastery Award</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
