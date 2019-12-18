@@ -225,7 +225,7 @@
             <li>IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,<br>AI tools such as Watson studio</li>
            <li>
            <i class="fa-li fa fa-check"></i>
-            <liArtificial Intelligence tools<br> For creating AI and ML projects, I can use ,IBM AI components and openCV <br>still experimenting on Darknet and pixlab tools</li>
+           <li>Artificial Intelligence tools<br> For creating AI and ML projects, I can use ,IBM AI components and openCV <br>still experimenting on Darknet and pixlab tools</li>
            <li>
             <i class="fa-li fa fa-check"></i>
             Express Framework, Node js<br> For development that requires asynchronous communications
@@ -279,10 +279,9 @@
             <i class="fa-li fa fa-trophy text-warning"></i>
             EC-Council Certified Ethical Hacker</li>
           <li>
-          <li>
           <i class="fa-li fa fa-trophy text-warning"></i>
             IBM Artificial Intelligence Mastery Award</li>
-           <i class="fa-li fa fa-trophy text-warning"></i>
+          <li><i class="fa-li fa fa-trophy text-warning"></i>
             IBM Big Data v2 Mastery Award</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
