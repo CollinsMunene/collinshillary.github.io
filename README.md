@@ -216,16 +216,20 @@
         <ul class="fa-ul mb-0">
           <li>
             <i class="fa-li fa fa-check"></i>
-            Django Framework, HTML5, CSS, SCSS, JS and PHP<br> For web development that fits in Web and Mobile applications development</li>
+            Django Framework, HTML5, CSS, SCSS, JS and PHP<br> For web development that fits in Web and Mobile applications development
+            </li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            Kali linux <br> For Penetration Testing and Security analysis together with other tools necessary for the job</li>
+            Kali linux <br> For Penetration Testing and Security analysis together with other tools necessary for the job
+            </li>
           <li>
             <i class="fa-li fa fa-check"></i>
-            <li>IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,<br>AI tools such as Watson studio</li>
+            IBM tools for Big data and AI application<br> For all big data related works, which include use of Hadoop and HDFS infrastructure,<br>AI tools such as Watson studio</IBM>
+            </li>
            <li>
            <i class="fa-li fa fa-check"></i>
-           <li>Artificial Intelligence tools<br> For creating AI and ML projects, I can use ,IBM AI components and openCV <br>still experimenting on Darknet and pixlab tools</li>
+           Artificial Intelligence tools<br> For creating AI and ML projects, I can use ,IBM AI components and openCV <br>still experimenting on Darknet and pixlab tools</Artificial>
+            </li>
            <li>
             <i class="fa-li fa fa-check"></i>
             Express Framework, Node js<br> For development that requires asynchronous communications
@@ -313,4 +317,3 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/resume.min.js"></script>
-
