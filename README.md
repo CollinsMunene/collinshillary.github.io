@@ -290,9 +290,15 @@
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             Certificate of Complete Ethical Hacking,Advanced</li>
+          <li><i class="fa-li fa fa-trophy text-warning"></i>
+            PluralSight security for hackers and developers</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             IBM Cyber Security Intro</li>
+          <li><i class="fa-li fa fa-trophy text-warning"></i>
+            Udemy Complete Hacking Course</li>
+          <li><i class="fa-li fa fa-trophy text-warning"></i>
+            Udemy Networking Hacking Security from Scratch</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             IBM using Watson Studio for Data anayltics</li>
