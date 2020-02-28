@@ -42,7 +42,7 @@
           <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#personal">Personal projects</a>
+          <a class="nav-link js-scroll-trigger" href="#personal">Projects & Copyrights/Patents</a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#publications">Plublications</a>
@@ -247,6 +247,12 @@
       <div class="w-100">
         <h2 class="mb-5">Personal Projects</h2>
         <p>Will update all projects soon. </p>
+        <p class="mb-0"></p>
+      </div>
+      <div class="w-100">
+        <h2 class="mb-5">Copyrights and Patents</h2>
+        <i class="fa-li fa fa-check"></i>
+        <p>I-Fundi platform  </p>
         <p class="mb-0"></p>
       </div>
     </section>
