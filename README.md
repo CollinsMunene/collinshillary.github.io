@@ -246,7 +246,7 @@
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="personal">
       <div class="w-100">
         <h2 class="mb-5">Personal Projects</h2>
-        <p>Will update all projects soon. </p>
+        <p><a href="https://github.com/CollinsMunene/FashionDetector">Fashion Detector application</a> </p>
         <p class="mb-0"></p>
       </div>
       <div class="w-100">
