@@ -65,7 +65,7 @@
         <div class="subheading mb-5">Nairobi · Kenya · (+254) 0715804742 ·
           <a href="mailto:hillarycollins@protonmail.com">hillarycollins@protonmail.com</a>
         </div>
-        <p class="lead mb-5">Hello there, I AM COLLINS HILLARY AND I AM A WEB DEVELOPER, A CYBER SECURITY PRACTIONER, A BIG DATA AND AI PRACTITIONER AND A IMMERSIVE TECHNOLOGY DEVELOPER<br>.I am experienced in developing personalized software solutions for organizations and individuals that are aimed at achieving the clients goals while using latest, relevant and scalable technologies,together with testing and ensuring the environmnet in which the client is working on is 
+        <p class="lead mb-5">Hello there, I AM COLLINS HILLARY AND I AM A WEB DEVELOPER, A CYBER SECURITY PRACTIONER, A BIG DATA AND AI PRACTITIONER AND AN IMMERSIVE TECHNOLOGY DEVELOPER<br>.I am experienced in developing personalized software solutions for organizations and individuals that are aimed at achieving the clients goals while using latest, relevant and scalable technologies,together with testing and ensuring the environmnet in which the client is working on is 
           safe form cyber threats as much as possible. </p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/collins-hillary-munene/">
