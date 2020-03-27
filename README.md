@@ -11,6 +11,7 @@
   <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 
   <!-- Custom styles for this template -->
   <link href="css/resume.min.css" rel="stylesheet">
@@ -64,7 +65,7 @@
         <div class="subheading mb-5">Nairobi · Kenya · (+254) 0715804742 ·
           <a href="mailto:hillarycollins@protonmail.com">hillarycollins@protonmail.com</a>
         </div>
-        <p class="lead mb-5">Hello there, I AM COLLINS HILLARY AND I AM A WEB DEVELOPER, A CYBER SECURITY PRACTIONER AND A BIG DATA AND AI ENTHUSIAST AND PRACTITIONER<br>.I am experienced in developing personalized solutions for organizations and individuals that are aimed at what the clients are striving to achieve, using latest, relevant and scalable technologies,together with testing and ensuring the environmnet in which the client is working on is 
+        <p class="lead mb-5">Hello there, I AM COLLINS HILLARY AND I AM A WEB DEVELOPER, A CYBER SECURITY PRACTIONER, A BIG DATA AND AI PRACTITIONER AND A IMMERSIVE TECHNOLOGY DEVELOPER<br>.I am experienced in developing personalized software solutions for organizations and individuals that are aimed at achieving the clients goals while using latest, relevant and scalable technologies,together with testing and ensuring the environmnet in which the client is working on is 
           safe form cyber threats as much as possible. </p>
         <div class="social-icons">
           <a href="https://www.linkedin.com/in/collins-hillary-munene/">
@@ -204,9 +205,9 @@
           <li class="list-inline-item">
             <i class="fab fa-linux"></i>
           </li>
-          <!-- <li class="list-inline-item">
-            <i class="fab fa-gulp"></i>
-          </li> -->
+          <li class="list-inline-item">
+            <i class="devicon-csharp-plain"></i>
+          </li>
           <li class="list-inline-item">
             <i class="fab fa-node"></i>
           </li>
@@ -233,6 +234,10 @@
            <li>
             <i class="fa-li fa fa-check"></i>
             Express Framework, Node js<br> For development that requires asynchronous communications
+          </li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Immersive Technologies Development<br> For development purposes such as Virtual and Augumented Reality   applications.
           </li>
           <!-- <li>
             <i class="fa-li fa fa-check"></i>
@@ -293,6 +298,8 @@
             IBM Artificial Intelligence Mastery Award</li>
           <li><i class="fa-li fa fa-trophy text-warning"></i>
             IBM Big Data v2 Mastery Award</li>
+          <li><i class="fa-li fa fa-trophy text-warning"></i>
+            Udemy Virtual Reality Development with Unity</li>
           <li>
             <i class="fa-li fa fa-trophy text-warning"></i>
             Certificate of Complete Ethical Hacking,Advanced</li>
