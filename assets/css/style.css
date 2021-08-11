@@ -1113,6 +1113,7 @@ section {
   background: #0678e3;
 }
 
+
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
@@ -1189,4 +1190,13 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+.view_button{
+  background: #0563bb;
+  border: 0;
+  padding: 10px 20px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+  width: 90px;
 }
