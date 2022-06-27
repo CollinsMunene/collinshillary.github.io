@@ -114,7 +114,11 @@ h1, h2, h3, h4, h5, h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+  .download_button{
+    display: none;
+  }
 }
+
 
 /*--------------------------------------------------------------
 # Header
@@ -139,9 +143,20 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
 @media (min-width: 992px) {
   #main {
     margin-left: 100px;
+  }
+  .download_button{
+    display: none;
+  }
+
+}
+
+@media (min-width: 1200px) {
+  .download_button{
+    display: block;
   }
 }
 
@@ -332,6 +347,9 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 10px;
     font-size: 20px;
     line-height: 24px;
+  }
+  .download_button{
+    display: none;
   }
 }
 
